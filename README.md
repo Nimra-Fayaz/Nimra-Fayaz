@@ -77,7 +77,7 @@ I'm a **CPS2 Student** and I'm exploring **Git & GitHub** workflows 💻
 
 ![Nimra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimra-Fayaz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Nimra-Fayaz&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nimra-Fayaz&theme=radical&hide_border=true&background=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimra-Fayaz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
 
@@ -89,7 +89,7 @@ I'm a **CPS2 Student** and I'm exploring **Git & GitHub** workflows 💻
 
 <div align="center">
 
-![Snake animation](https://github.com/Nimra-Fayaz/Nimra-Fayaz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Nimra-Fayaz/Nimra-Fayaz/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -120,7 +120,7 @@ I'm a **CPS2 Student** and I'm exploring **Git & GitHub** workflows 💻
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Nimra-Fayaz&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=Nimra-Fayaz&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
 
 </div>
 
